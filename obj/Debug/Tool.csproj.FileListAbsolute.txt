@@ -1,0 +1,9 @@
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\BnsModTool.RenameForm.resources
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\BnsModTool.MainForm.resources
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\BnsModTool.Properties.Resources.resources
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\Tool.csproj.GenerateResource.Cache
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\Tool.csprojResolveAssemblyReference.cache
+D:\bns\BnS upk model processing tools\vs2010\bin\Debug\BnS Model Tool.exe
+D:\bns\BnS upk model processing tools\vs2010\bin\Debug\BnS Model Tool.pdb
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\BnS Model Tool.exe
+D:\bns\BnS upk model processing tools\vs2010\obj\Debug\BnS Model Tool.pdb
